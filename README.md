@@ -1,2 +1,2 @@
-# <img src="images\biolib.png" alt="BioLib"/> BioLib
+# <img src="images\biolib.png" alt="BioLib" style="zoom:150%;/> BioLib
 A general-purpose library of routines for reading and writing text files in biological data transfer formats (DELTA/NEXUS/FASTA/XDF).
